@@ -1,0 +1,19 @@
+/* inspiration animation with below link */
+/* https://www.brandium.nl/ */
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: #fff;
+}
+html,
+body{
+    height: 100%;
+    width: 100%;
+}
+body{
+    overflow-x: hidden;
+    background-color: #0f0f0f;
+}
