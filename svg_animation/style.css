@@ -17,3 +17,14 @@ body{
     overflow-x: hidden;
     background-color: #0f0f0f;
 }
+
+
+#staring{
+    /* background-color: red; */
+    height: 200px;
+    width: 100%;
+}
+
+svg{
+    width: 100%;    
+}
