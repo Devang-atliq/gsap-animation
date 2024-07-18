@@ -18,13 +18,17 @@ body{
     background-color: #0f0f0f;
 }
 
-
+#box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: chocolate;
+    margin-top: 200px;
+}
 #staring{
     /* background-color: red; */
     height: 200px;
     width: 100%;
 }
 
-svg{
-    width: 100%;    
-}

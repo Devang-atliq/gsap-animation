@@ -20,6 +20,6 @@ string.addEventListener("mouseleave", function() {
     gsap.to("svg path", {
         attr: { d: finalpath },
         duration: 1.5,
-        ease: "elastic.inOut(1,0.3)",
+        ease: "elastic.out(1,0.2)",
     });
 });
